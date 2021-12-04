@@ -1,0 +1,3 @@
+[submodule "ex02/ex02/bats"]
+	path = ex02/ex02/bats
+	url = https://github.com/sstephenson/bats.git
